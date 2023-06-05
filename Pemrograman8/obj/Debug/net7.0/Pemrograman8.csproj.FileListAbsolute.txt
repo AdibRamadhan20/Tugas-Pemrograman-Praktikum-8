@@ -1,0 +1,15 @@
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\bin\Debug\net7.0\Pemrograman8.exe
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\bin\Debug\net7.0\Pemrograman8.deps.json
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\bin\Debug\net7.0\Pemrograman8.runtimeconfig.json
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\bin\Debug\net7.0\Pemrograman8.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\bin\Debug\net7.0\Pemrograman8.pdb
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\obj\Debug\net7.0\Pemrograman8.csproj.AssemblyReference.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\obj\Debug\net7.0\Pemrograman8.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\obj\Debug\net7.0\Pemrograman8.AssemblyInfoInputs.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\obj\Debug\net7.0\Pemrograman8.AssemblyInfo.cs
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\obj\Debug\net7.0\Pemrograman8.csproj.CoreCompileInputs.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\obj\Debug\net7.0\Pemrograman8.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\obj\Debug\net7.0\refint\Pemrograman8.dll
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\obj\Debug\net7.0\Pemrograman8.pdb
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\obj\Debug\net7.0\Pemrograman8.genruntimeconfig.cache
+D:\22.11.4873\Tugas Pemrograman\TugasPraktikum8\Pemrograman8\Pemrograman8\obj\Debug\net7.0\ref\Pemrograman8.dll
